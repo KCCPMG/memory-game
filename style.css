@@ -1,0 +1,38 @@
+
+
+.start-button {
+  font-size: 100%;
+  padding: 5%;
+  vertical-align: middle;
+  align-items: center;
+  margin: auto;
+}
+
+.choose-game-button {
+  font-size: 100%;
+  padding: 5%;
+  vertical-align: middle;
+  align-items: center;
+  margin: auto;
+}
+
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+
+}
+
+#game div.selected {
+  border: 5px solid black;
+  margin: 5px;
+}
+
+#game div.revealed {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: black;
+  background-position: center;
+}
