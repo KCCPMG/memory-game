@@ -13,7 +13,7 @@ You can find a 30 second video demo of a possible solution [here](https://drive.
 
 [Download the starter code here](https://curric.springboard.com/software-engineering-career-track/default/exercises/memory-game.zip)
 
-####Part One - Reading the code
+#### Part One - Reading the code
 Take a look at the starter code provided.
 
 * We have an array of colors which we shuffle and then loop over to create 10 <div> elements on the page and give them a class of the color we loop over.
